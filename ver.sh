@@ -1,9 +1,7 @@
+#!/bin/bash
 while :
 do
-    echo "Press [CTRL+C] to exit this loop..."
-    # Add more instructions herei
-    coinmon >> view
-    sleep 2
-    cat view
-    rm vew
+	echo "Press [CTRL+C] to stop.."
+	coinmon
+	sleep 1m 
 done
