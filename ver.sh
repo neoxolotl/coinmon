@@ -5,4 +5,5 @@ do
     coinmon >> view
     sleep 2
     cat view
+    rm vew
 done
