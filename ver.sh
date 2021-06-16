@@ -8,6 +8,6 @@ do
 	#coinmon 
 	#s/p = 10 
 	# -f bnb --> busca solo bnb 
-	coinmon -7
+	coinmon -t 7
 	sleep 1m 
 done
